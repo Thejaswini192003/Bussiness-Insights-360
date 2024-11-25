@@ -3,7 +3,7 @@
 AtliQ Hardware, a rapidly expanding player in the global market, is embarking on a transformative journey to implement data analytics for the first time using Power BI. With an ambition to outpace its competitors and fuel data-driven decision-making, the company aims to harness the power of analytics across key business functions—finance, sales, marketing, and supply chain. This project is designed to answer critical questions for stakeholders, enabling strategic decision-making and performance optimization.
 Guided by the comprehensive Codebasics Power BI Course.
 
-Live Report Link: https://tinyurl.com/2wppksxc
+Live Report Link: https://tinyurl.com/365de54t
 
 # Technology Stack:
 
