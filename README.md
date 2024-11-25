@@ -3,7 +3,7 @@
 AtliQ Hardware, a rapidly expanding player in the global market, is embarking on a transformative journey to implement data analytics for the first time using Power BI. With an ambition to outpace its competitors and fuel data-driven decision-making, the company aims to harness the power of analytics across key business functions—finance, sales, marketing, and supply chain. This project is designed to answer critical questions for stakeholders, enabling strategic decision-making and performance optimization.
 Guided by the comprehensive Codebasics Power BI Course.
 
-Live Report Link: https://tinyurl.com/2aabj448
+Live Report Link: https://tinyurl.com/2wppksxc
 
 # Technology Stack:
 
@@ -134,6 +134,8 @@ which were also integrated into Power BI for analysis.
 # Data Modeling:
 Data modeling is the backbone of any analytics project. It determines the integrity, speed, and clarity of the reports. Poor data modeling can hamper performance and result in inefficient dashboards. In this project, we adhered to Snowflake Schema best practices for data modeling, ensuring scalability and optimized reporting performance. Well-structured data is key to delivering actionable insights across the board.
 This project marks a pivotal moment in AtliQ Hardware's journey toward becoming a truly data-driven organization. By implementing Power BI, we have equipped the company with the tools to make smarter, faster decisions, streamline operations, and ultimately secure a competitive edge in the market. The dashboard not only serves as a source of key insights but also positions AtliQ to respond to business challenges with agility and precision.
+
+
 ![image](https://github.com/user-attachments/assets/a26e4d4d-80e5-4a74-99d9-b8fb3d2682ea)
 
 # Project Outcome:
